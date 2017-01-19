@@ -1,6 +1,10 @@
 # AMAZON DASH BUTTON TIME TO MEAL IFTTT HACK
 
-A script that makes a notification in a Telegram "Home" group to say that is meal time using an Amazon dash button
+A script that makes a notification in a Telegram "Home" group to say that is meal time using an Amazon dash button.
+
+<center><a href="http://www.youtube.com/watch?feature=player_embedded&v=KCci_xFw6cI
+" target="_blank"><img src="http://img.youtube.com/vi/KCci_xFw6cI/0.jpg"
+alt="Time to meal video" width="240" height="180" border="10" /></a></center><br><br>
 
 Code based on the great work of [Aaron bell](http://www.aaronbell.com/)
 
