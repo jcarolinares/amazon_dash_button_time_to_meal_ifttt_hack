@@ -82,7 +82,7 @@ Now execute your python script using
 
 sudo python meal_time_ifft_script.py
 
-Now put your button near your kitchen andyou push it. Everything should work. Enjoy it!
+Now put your button near your kitchen and push it. Everything should work. Enjoy it!
 
 =============
 
