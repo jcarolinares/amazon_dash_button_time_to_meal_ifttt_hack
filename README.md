@@ -41,7 +41,7 @@ In the last step, when you have to choose your product, just close the app.
 
 You can use the Python scripts that Ted Benson uses in [his hack](https://medium.com/@edwardbenson/how-i-hacked-amazon-s-5-wifi-button-to-track-baby-data-794214b0bdd8#.2ovluz4wx).
 
-If this programs doesn't work for you, install in your smartphone an App like [Fing](https://play.google.com/store/apps/details?id=com.overlook.android.fing).
+If these programs doesn't work for you, install in your smartphone an App like [Fing](https://play.google.com/store/apps/details?id=com.overlook.android.fing).
 
 ## IFTTT Recipe Setup
 
